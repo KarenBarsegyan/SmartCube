@@ -1,0 +1,159 @@
+Removed Pin From Net: NetName=LCD_LED_PWM1 Pin=U4-10
+Removed Pin From Net: NetName=LCD_LED_PWM2 Pin=U4-11
+Removed Pin From Net: NetName=LCD_LED_PWM3 Pin=U4-12
+Removed Pin From Net: NetName=LCD_LED_PWM4 Pin=U4-13
+Removed Pin From Net: NetName=LCD_LED_PWM5 Pin=U4-14
+Removed Pin From Net: NetName=LCD_LED_PWM6 Pin=U4-15
+Removed Pin From Net: NetName=INT_Touch1 Pin=U4-16
+Removed Pin From Net: NetName=INT_Touch2 Pin=U4-17
+Removed Pin From Net: NetName=INT_Touch3 Pin=U4-29
+Removed Pin From Net: NetName=INT_Touch4 Pin=U4-30
+Removed Pin From Net: NetName=INT_Touch5 Pin=U4-31
+Removed Pin From Net: NetName=INT_Touch6 Pin=U4-32
+Removed Pin From Net: NetName=+3.3V Pin=U5-3
+Removed Pin From Net: NetName=HSPI_CS_LCD1 Pin=U5-24
+Removed Pin From Net: NetName=HSPI_CS_LCD2 Pin=U5-25
+Removed Pin From Net: NetName=HSPI_CS_LCD3 Pin=U5-26
+Removed Pin From Net: NetName=VSPI_CS_LCD4 Pin=U5-27
+Removed Pin From Net: NetName=VSPI_CS_LCD5 Pin=U5-28
+Removed Pin From Net: NetName=VSPI_CS_LCD6 Pin=U5-29
+Removed Pin From Net: NetName=I2C_SDA Pin=U5-33
+Removed Pin From Net: NetName=I2C_SCL Pin=U5-36
+Added Component: Designator=B1(BUTTON 4x3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/kls7-ts3608-5.0-180-td-02xa"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KLS electronic co ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "L-KLS7-TS3608-5.0-180"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Button"; VariantName = "[No Variations]"
+Added Component: Designator=C20(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r61e106m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R61E106M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C21(0603 Capicator)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r61e106m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R61E106M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=EspUART(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R22(0603 Resistor)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=SWD(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U7(SOT-223)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://static.chipdip.ru/lib/276/DOC000276680.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/lm1117impx-5.0-nopb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LM1117IMPX-5.0/NOPB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=+12V Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=+5V Pin=C21-2
+Added Pin To Net: NetName=GND Pin=EspUART-3
+Added Pin To Net: NetName=+3.3V Pin=R22-2
+Added Pin To Net: NetName=+5V Pin=RPI-1
+Added Pin To Net: NetName=+5V Pin=RPI-3
+Added Pin To Net: NetName=GND Pin=RPI-5
+Added Pin To Net: NetName=GND Pin=RPI-10
+Added Pin To Net: NetName=GND Pin=RPI-13
+Added Pin To Net: NetName=GND Pin=RPI-19
+Added Pin To Net: NetName=GND Pin=RPI-26
+Added Pin To Net: NetName=GND Pin=RPI-29
+Added Pin To Net: NetName=GND Pin=RPI-33
+Added Pin To Net: NetName=GND Pin=RPI-40
+Added Pin To Net: NetName=+3.3V Pin=SWD-1
+Added Pin To Net: NetName=GND Pin=SWD-3
+Added Pin To Net: NetName=VSPI_SCLK Pin=U4-15
+Added Pin To Net: NetName=VSPI_MISO Pin=U4-16
+Added Pin To Net: NetName=VSPI_MOSI Pin=U4-17
+Added Pin To Net: NetName=LCD_LED_PWM1 Pin=U4-18
+Added Pin To Net: NetName=LCD_LED_PWM2 Pin=U4-19
+Added Pin To Net: NetName=LCD_LED_PWM3 Pin=U4-20
+Added Pin To Net: NetName=INT_Touch5 Pin=U4-21
+Added Pin To Net: NetName=INT_Touch6 Pin=U4-22
+Added Pin To Net: NetName=I2C_SCL Pin=U4-30
+Added Pin To Net: NetName=I2C_SDA Pin=U4-31
+Added Pin To Net: NetName=LCD_LED_PWM4 Pin=U4-39
+Added Pin To Net: NetName=LCD_LED_PWM5 Pin=U4-40
+Added Pin To Net: NetName=LCD_LED_PWM6 Pin=U4-41
+Added Pin To Net: NetName=INT_Touch1 Pin=U4-42
+Added Pin To Net: NetName=INT_Touch2 Pin=U4-43
+Added Pin To Net: NetName=INT_Touch3 Pin=U4-45
+Added Pin To Net: NetName=INT_Touch4 Pin=U4-46
+Added Pin To Net: NetName=HSPI_CS_LCD1 Pin=U5-23
+Added Pin To Net: NetName=HSPI_CS_LCD2 Pin=U5-24
+Added Pin To Net: NetName=HSPI_CS_LCD3 Pin=U5-25
+Added Pin To Net: NetName=VSPI_CS_LCD4 Pin=U5-26
+Added Pin To Net: NetName=VSPI_CS_LCD5 Pin=U5-27
+Added Pin To Net: NetName=VSPI_CS_LCD6 Pin=U5-28
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=+5V Pin=U7-2
+Added Pin To Net: NetName=+5V Pin=U7-2
+Added Pin To Net: NetName=+12V Pin=U7-3
+Change Net Name : Old Net Name=I2C_SCL New Net Name=STM_I2C_SCL
+Change Net Name : Old Net Name=I2C_SDA New Net Name=STM_I2C_SDA
+Change Net Name : Old Net Name=SPI_CS_A/G New Net Name=HSPI_CS_A/G
+Change Net Name : Old Net Name=SPI_CS_M New Net Name=HSPI_CS_M
+Added Pin To Net: NetName=ESP_I2C_SCL Pin=RPI-6
+Added Pin To Net: NetName=ESP_I2C_SCL Pin=U5-36
+Added Net: Name=ESP_I2C_SCL
+Added Pin To Net: NetName=ESP_I2C_SDA Pin=RPI-4
+Added Pin To Net: NetName=ESP_I2C_SDA Pin=U5-33
+Added Net: Name=ESP_I2C_SDA
+Added Pin To Net: NetName=ESP_RX Pin=EspUART-2
+Added Pin To Net: NetName=ESP_RX Pin=U5-34
+Added Net: Name=ESP_RX
+Added Pin To Net: NetName=ESP_TX Pin=EspUART-1
+Added Pin To Net: NetName=ESP_TX Pin=U5-35
+Added Net: Name=ESP_TX
+Added Pin To Net: NetName=INT_Touch Pin=U4-10
+Added Pin To Net: NetName=INT_Touch Pin=U5-8
+Added Net: Name=INT_Touch
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=R22-1
+Added Pin To Net: NetName=NetB1_1 Pin=U5-3
+Added Net: Name=NetB1_1
+Added Pin To Net: NetName=Reset_LCD&Touch Pin=J1-37
+Added Pin To Net: NetName=Reset_LCD&Touch Pin=J2-37
+Added Pin To Net: NetName=Reset_LCD&Touch Pin=J3-37
+Added Pin To Net: NetName=Reset_LCD&Touch Pin=J4-37
+Added Pin To Net: NetName=Reset_LCD&Touch Pin=J5-37
+Added Pin To Net: NetName=Reset_LCD&Touch Pin=J6-6
+Added Pin To Net: NetName=Reset_LCD&Touch Pin=JS1-1
+Added Pin To Net: NetName=Reset_LCD&Touch Pin=JS2-1
+Added Pin To Net: NetName=Reset_LCD&Touch Pin=JS3-1
+Added Pin To Net: NetName=Reset_LCD&Touch Pin=JS4-1
+Added Pin To Net: NetName=Reset_LCD&Touch Pin=JS5-1
+Added Pin To Net: NetName=Reset_LCD&Touch Pin=U5-9
+Added Net: Name=Reset_LCD&Touch
+Added Pin To Net: NetName=SWCLK Pin=SWD-2
+Added Pin To Net: NetName=SWCLK Pin=U4-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=SWD-4
+Added Pin To Net: NetName=SWDIO Pin=U4-34
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=VSPI_CS_STM Pin=U4-14
+Added Pin To Net: NetName=VSPI_CS_STM Pin=U5-29
+Added Net: Name=VSPI_CS_STM
+Added Member To Class: ClassName=Smart_Cube Member=Component B1 But
+Added Member To Class: ClassName=Smart_Cube Member=Component C20 10uF
+Added Member To Class: ClassName=Smart_Cube Member=Component C21 10uF
+Added Member To Class: ClassName=Smart_Cube Member=Component EspUART Header 3
+Added Member To Class: ClassName=Smart_Cube Member=Component R22 10k
+Added Member To Class: ClassName=Smart_Cube Member=Component RPI PBD
+Added Member To Class: ClassName=Smart_Cube Member=Component SWD Header 4
+Added Member To Class: ClassName=Smart_Cube Member=Component U7 LDO 5V
