@@ -1,0 +1,13 @@
+Added Component: Designator=Y1(Crystal ABM)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://ru.mouser.com/ProductDetail/ABRACON/ABM3B-8000MHZ-10-1UT?qs=sGAEpiMZZMsBj6bBr9Q9aQYUWCbsL2Wc65je5Ut7byg%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ru.mouser.com/datasheet/2/3/abm3b-39910.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ABRACON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ABM3B-8.000MHZ-10-1UT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Crystal"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC13_1 Pin=Y1-1
+Added Pin To Net: NetName=NetC15_1 Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-GND
+Added Pin To Net: NetName=GND Pin=Y1-GND
+Added Member To Class: ClassName=Smart_Cube Member=Component Y1 8MHz

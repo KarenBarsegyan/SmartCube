@@ -1,0 +1,71 @@
+Added Component: Designator=J1(FH12-40S Vertical)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product1/8002082143"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hirose Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FH12-40S-0.5SVA(54)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=J2(FH12-12S Vertical)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://ru.mouser.com/ProductDetail/Hirose-Connector/FH12-12S-05SVA54?qs=%2Fha2pyFadugx2rsdyHDVcXwbI8krQaq6%252BPNTW5YGSdYzC8JBsy5pU75ViyDjvRCP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hirose Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FH12-12S-0.5SVA(54)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=JS1(FH12-6s Vertical)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://ru.mouser.com/ProductDetail/Hirose-Connector/FH12-6S-05SVA54?qs=%2Fha2pyFaduhYbZFVunKSgIpYMlkzngMoGcACEbztduQ1P2V6tcZCQQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hirose Electric"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FH12-6S-0.5SVA(54)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=J1-4
+Added Pin To Net: NetName=+3.3V Pin=J2-4
+Added Pin To Net: NetName=+3.3V Pin=JS1-5
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+12V Pin=J1-2
+Added Pin To Net: NetName=+12V Pin=J2-2
+Added Net: Name=+12V
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-29
+Added Pin To Net: NetName=GND Pin=J1-32
+Added Pin To Net: NetName=GND Pin=J1-33
+Added Pin To Net: NetName=GND Pin=J1-36
+Added Pin To Net: NetName=GND Pin=J1-A
+Added Pin To Net: NetName=GND Pin=J1-A
+Added Pin To Net: NetName=GND Pin=J1-A
+Added Pin To Net: NetName=GND Pin=J1-A
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-A
+Added Pin To Net: NetName=GND Pin=J2-A
+Added Pin To Net: NetName=GND Pin=J2-A
+Added Pin To Net: NetName=GND Pin=J2-A
+Added Pin To Net: NetName=GND Pin=JS1-6
+Added Pin To Net: NetName=GND Pin=JS1-A
+Added Pin To Net: NetName=GND Pin=JS1-A
+Added Pin To Net: NetName=GND Pin=JS1-A
+Added Pin To Net: NetName=GND Pin=JS1-A
+Added Net: Name=GND
+Added Pin To Net: NetName=INT_Touch6 Pin=J2-7
+Added Pin To Net: NetName=INT_Touch6 Pin=JS1-2
+Added Net: Name=INT_Touch6
+Added Pin To Net: NetName=LCD_LED_PWM6 Pin=J1-1
+Added Pin To Net: NetName=LCD_LED_PWM6 Pin=J2-1
+Added Net: Name=LCD_LED_PWM6
+Added Pin To Net: NetName=Reset_LCD&Touch Pin=J1-37
+Added Pin To Net: NetName=Reset_LCD&Touch Pin=J2-6
+Added Pin To Net: NetName=Reset_LCD&Touch Pin=JS1-1
+Added Net: Name=Reset_LCD&Touch
+Added Pin To Net: NetName=STM_I2C_SCL Pin=J2-8
+Added Pin To Net: NetName=STM_I2C_SCL Pin=JS1-3
+Added Net: Name=STM_I2C_SCL
+Added Pin To Net: NetName=STM_I2C_SDA Pin=J2-9
+Added Pin To Net: NetName=STM_I2C_SDA Pin=JS1-4
+Added Net: Name=STM_I2C_SDA
+Added Pin To Net: NetName=VSPI_CS_LCD6 Pin=J1-40
+Added Pin To Net: NetName=VSPI_CS_LCD6 Pin=J2-12
+Added Net: Name=VSPI_CS_LCD6
+Added Pin To Net: NetName=VSPI_MOSI Pin=J1-38
+Added Pin To Net: NetName=VSPI_MOSI Pin=J2-10
+Added Net: Name=VSPI_MOSI
+Added Pin To Net: NetName=VSPI_SCLK Pin=J1-39
+Added Pin To Net: NetName=VSPI_SCLK Pin=J2-11
+Added Net: Name=VSPI_SCLK
+Added Class: Name=SmartCubeExtension
